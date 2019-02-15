@@ -15,7 +15,6 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require popper
 //= require bootstrap/dist/js/bootstrap.bundle.min.js
 //= require bootstrap-typeahead/bootstrap3-typeahead.min.js
 //= require bootstrap-datepicker/dist/js/bootstrap-datepicker.js
